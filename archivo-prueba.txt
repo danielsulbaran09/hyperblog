@@ -1,1 +1,3 @@
-Abrí este archivo desde consola copiando «code»
+Abrí este archivo desde consola copiando «code»... 
+
+Esta es la versión 2, editada
