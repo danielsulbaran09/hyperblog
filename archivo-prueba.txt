@@ -3,3 +3,5 @@ Abrí este archivo desde consola copiando «code»...
 Esta es la versión 2, editada
 
 Esta es la tercera edición, que locura
+
+Ya borré cambios anteriores, ahora creé el HTML y CSS y volví a editar archivo prueba
