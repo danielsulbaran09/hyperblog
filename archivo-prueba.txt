@@ -1,3 +1,5 @@
 Abrí este archivo desde consola copiando «code»... 
 
 Esta es la versión 2, editada
+
+Esta es la tercera edición, que locura
