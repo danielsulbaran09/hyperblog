@@ -2,4 +2,6 @@ Abrí este archivo desde consola copiando «code»
 
 Master 1
 
+Master 2
+
 Volví todo a mi estado original con checkout y luego voy a usar git add . y git commit -m
